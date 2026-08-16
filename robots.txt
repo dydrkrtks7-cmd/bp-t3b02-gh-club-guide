@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gayang-karaoke-note.cheongdam-shirts-zone.xyz/sitemap.xml
+Sitemap: https://gayang-karaoke-note.cheongdam-shirts-zone.xyz/sitemap-pages.xml
